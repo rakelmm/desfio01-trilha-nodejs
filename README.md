@@ -15,8 +15,6 @@
 - Should be able to create a new todo
 - Should be able to update a todo
 - Should not be able to update a non existing todo
-- Should not be able to update a non existing todo
-- Should be able to delete a todo
 - Should be able to delete a todo
 
 ---
